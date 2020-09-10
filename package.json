@@ -1,0 +1,27 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "My first discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharian/discordBotJS.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "node.js"
+  ],
+  "author": "\"Dharian \\dopi.xd3@gmail.com\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dharian/discordBotJS/issues"
+  },
+  "homepage": "https://github.com/Dharian/discordBotJS#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
